@@ -302,7 +302,7 @@ header::before {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     justify-content: space-between;
-    align-items: center;
+    align-items: inherit;
     margin-bottom: 3rem;
 }
 
